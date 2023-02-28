@@ -1,7 +1,7 @@
 <h1 align="center">Curso de íngles para principiantes</h1> <br>
 
 <p align="center">
-  A NextJS starter to get you started creating educational materials using Markdown
+  Un curso para novatos en inglés
 </p>
 
 ## Get Started
