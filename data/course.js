@@ -9,7 +9,7 @@ const DEFAULT_CONFIG = {
   subtitle: "Por Marcos López",
   frontendMastersLink: "",
   description: "Curso para personas que no saben íngles",
-  keywords: ["Íngles", "Lenguajes", "Curso", "Presencial","Online"],
+  keywords: ["Íngles", "Lenguajes", "Curso", "Presencial","Online", "Novatos"],
   social: {
     linkedin: "marcmel",
     github: "english-marcmel",
