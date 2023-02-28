@@ -2,20 +2,21 @@ import config from "../course.json";
 
 const DEFAULT_CONFIG = {
   author: {
-    name: "An Author",
-    company: "An Author's Company",
+    name: "Marcos López",
+    company: "Profesor de íngles",
   },
-  title: "A Superb Course",
-  subtitle: "That Teaches Nice Things",
+  title: "Curso de íngles para principiantes",
+  subtitle: "Por Marcos López",
   frontendMastersLink: "",
-  description: "A nice course for nice people.",
-  keywords: ["a nice course", "for people", "to learn", "nice things"],
+  description: "Curso para personas que no saben íngles",
+  keywords: ["Íngles", "Lenguajes", "Curso", "Presencial","Online"],
   social: {
-    linkedin: "btholt",
-    github: "btholt",
-    twitter: "holtbt",
+    linkedin: "marcmel",
+    github: "english-marcmel",
+    twitter: "musicmarcmel",
+    instagram: "music.marcmel"
   },
-  productionBaseUrl: "/",
+  productionBaseUrl: "/english-course",
 };
 
 export default function getCourseConfig() {

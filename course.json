@@ -1,18 +1,19 @@
 {
   "author": {
-    "name": "Brian Holt",
-    "company": "Stripe"
+    "name": "Marcos López",
+    "company": "Profesor de Inglés"
   },
-  "title": "Next.js Course Starter Kit",
-  "subtitle": "for Frontend Masters",
-  "frontendMastersLink": "https://frontendmasters.com/courses/complete-react-v6/",
+  "title": "Curso de Inglés para principiantes",
+  "subtitle": "por Marcos López",
+  "frontendMastersLink": "https://music-marcmel.mystrikingly.com/",
   "social": {
-    "linkedin": "btholt",
-    "github": "btholt",
-    "twitter": "holtbt"
+    "linkedin": "marcmel",
+    "github": "english-marcmel",
+    "twitter": "musicmarcmel",
+    "instagram": "music.marcmel"
   },
-  "description": "A starter kit for making really amazing courses, optimized for Frontend Masters",
-  "keywords": ["your", "Google", "keywords", "here"],
-  "productionBaseUrl": "/next-course-starter",
+  "description": "Clases de íngles para principiantes, por Marcos López",
+  "keywords": ["English", "Languages", "Classes", "Learning","Listening","Writing"],
+  "productionBaseUrl": "/english-course",
   "csvPath": "./out/lessons.csv"
 }

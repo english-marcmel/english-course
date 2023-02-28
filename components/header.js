@@ -14,7 +14,7 @@ export default function Header(props) {
       <div className="navbar-info">
         {frontendMastersLink ? (
           <a href={frontendMastersLink} className="cta-btn">
-            Watch on Frontend Masters
+            Link a mi página web
           </a>
         ) : null}
         {section ? (
