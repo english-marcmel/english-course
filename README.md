@@ -1,4 +1,4 @@
-<h1 align="center">next-course-starter</h1> <br>
+<h1 align="center">Curso de íngles para principiantes</h1> <br>
 
 <p align="center">
   A NextJS starter to get you started creating educational materials using Markdown
