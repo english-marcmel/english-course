@@ -2,6 +2,7 @@
   --primary: #dfa067;
   --secondary: #93aca7;
   --highlight: #224159;
+  --ternary: pink;
 
   --text-header: var(--primary);
   --text-main-headers: var(--highlight);
